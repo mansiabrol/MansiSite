@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MansiSite/static/css/main.d6247299.chunk.css",
+    "main.js": "/MansiSite/static/js/main.8e16e2da.chunk.js",
+    "main.js.map": "/MansiSite/static/js/main.8e16e2da.chunk.js.map",
+    "runtime-main.js": "/MansiSite/static/js/runtime-main.ad1d5a17.js",
+    "runtime-main.js.map": "/MansiSite/static/js/runtime-main.ad1d5a17.js.map",
+    "static/js/2.c117278f.chunk.js": "/MansiSite/static/js/2.c117278f.chunk.js",
+    "static/js/2.c117278f.chunk.js.map": "/MansiSite/static/js/2.c117278f.chunk.js.map",
+    "index.html": "/MansiSite/index.html",
+    "precache-manifest.0303f3eaece15a007d3656a5f1c9d381.js": "/MansiSite/precache-manifest.0303f3eaece15a007d3656a5f1c9d381.js",
+    "service-worker.js": "/MansiSite/service-worker.js",
+    "static/css/main.d6247299.chunk.css.map": "/MansiSite/static/css/main.d6247299.chunk.css.map",
+    "static/js/2.c117278f.chunk.js.LICENSE.txt": "/MansiSite/static/js/2.c117278f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MansiSite/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad1d5a17.js",
+    "static/js/2.c117278f.chunk.js",
+    "static/css/main.d6247299.chunk.css",
+    "static/js/main.8e16e2da.chunk.js"
+  ]
+}
