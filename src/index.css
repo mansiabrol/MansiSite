@@ -1,0 +1,48 @@
+.container-fluid  
+{padding-left:30px; padding-right:30px;
+}
+.container-fluid .navbar {padding-left:0px; padding-right:0px;}
+
+.loginBtn {background:#ff385c !important; color:#fff !important; border-radius:3px; font-weight:400; position:relative; padding:8px 37px 7px 17px !important;}
+.loginBtn:before {position:absolute; background:url(/images/login.png) no-repeat left top; content:""; width:14px; height:16px; right:15px; top:12px;}
+.loginBtn:hover {background:#f22248 !important;}
+.navbar .nav-item {padding-left:15px;}
+.banner {height:635px; text-align:center; padding:70px 0px;background:url(/images/banner.png)no-repeat center top/cover}
+.banner h1 {font-size:40px; color:#fff; font-weight:600; padding:0px 0px 20px 0px; margin:0px;}
+.banner h1 span {color:#ff385c;}
+.banner h2 {font-size:34px; line-height:50px; color:#fff; font-weight:600; margin:0px; padding:0px 0px 30px 0px;}
+.banner p {font-size:29px; color:#fff; font-weight:400; margin:0px; padding:0px;}
+
+
+.btn-lg-pink {color:#fff; text-transform:uppercase; font-size:20px; background:#ff385c; margin:0px; padding:0px; border-radius:5px; padding:13px 20px; display:inline-block; min-width:287px; text-align:center; margin:50px 0px 0px 0px; font-weight:400;}
+.btn-lg-pink:hover {background:#eb1d42; text-decoration:none; color:#fff;}
+.btn-lg-pink img {padding:0px 7px;}
+
+.category {background:#fff; padding:0px;}
+.cat_inner {background:#fff;  border-radius:10px; padding:30px; margin:-105px 0px 0px 0px;-webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+-moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);}
+.cat_inner {font-size:28px;}
+.cat_inner h2 {font-size:28px; color:#000000; margin:0px 0px 30px 0px; padding:0px 0px; font-weight:600;}
+.cat_inner h2 span {font-weight:400;}
+
+.cat_box {margin:0px; padding:0px; display:flex;}
+.cat_box li {margin:0px; padding:0px 15px; list-style:none; display:inline-block; width:14.28%; text-align:center;}
+.cat_box li a {margin:0px; padding:0px; font-size:17px; color:#000000; font-size:17px; display:inline-block; width:100%; font-weight:600;height:140px; border-radius:3px; background:#f6f6f6;}
+.cat_box li a span {width:100%; display:inline-block; height:50px; margin-bottom:7px; background-position:center center !important; background-repeat:no-repeat !important; margin-top:25px;}
+.cat_box li a:hover {background:#ff385c; color:#fff; text-decoration:none;}
+.cat_box li a:hover span {background:#ff385c; color:#fff;}
+.hg {background:url(/images/icon01.png);}
+.cat_box li a:hover .hg {background:url(/images/icon01hover.png);}
+.pg {background:url(/images/icon02.png);}
+.cat_box li a:hover .pg {background:url(/images/icon02hover.png);}
+.uv {background:url(/images/icon03.png);}
+.cat_box li a:hover .uv {background:url(/images/icon03hover.png);}
+.ts {background:url(/images/icon04.png);}
+.cat_box li a:hover .ts {background:url(/images/icon04hover.png);}
+.tr {background:url(/images/icon05.png);}
+.cat_box li a:hover .tr {background:url(/images/icon05hover.png);}
+.sg {background:url(/images/icon06.png);}
+.cat_box li a:hover .sg {background:url(/images/icon06hover.png);}
+.cl {background:url(/images/icon07.png);}
+.cat_box li a:hover .cl {background:url(/images/icon07hover.png);}
